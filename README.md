@@ -18,7 +18,8 @@ SCRAP is currently being developed to Version 1.1 for launch in late June 2023.
 [See the wiki on GitHub!](https://github.com/RIT-Launch-Initiative/SCRAP/wiki) 
 
 ## Photos & Media
-todo...
+![scrap](https://github.com/RIT-Launch-Initiative/SCRAP/assets/20119374/77427bbf-3d0c-4ee3-9ea4-e639540bd0b4)
+
 
 ## Support Me
 You can buy me a coffee [here](https://www.buymeacoffee.com/jimheaney)!
